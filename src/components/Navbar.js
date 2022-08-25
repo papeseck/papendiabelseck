@@ -1,5 +1,5 @@
 import "./NavbarStyles.css"
-import pape from "../assets/pap.jpeg";
+import pape from "../assets/pdso.jpeg";
 import React, {useState} from 'react'
 import { Link } from "react-router-dom";
 import {FaBars, FaTimes} from "react-icons/fa"

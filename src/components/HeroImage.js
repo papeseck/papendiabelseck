@@ -1,5 +1,6 @@
 import "./HeroImageStyle.css";
 import React from "react";
+import pape from "../assets/pdso.jpeg";
 import { Link } from "react-router-dom";
 
 
@@ -17,6 +18,7 @@ const HeroImage = () => {
       <div className="content">
         <p>HI , I'AM A WEB DEVELOPER</p>
         <h1>Full Stack Developer.</h1>
+        
         <h3>
           Certified full stack developer, computer enthusiast, I learned to code
           in various computer languages ​​(Javascript, PHP, REACTJS,NODE JS etc.) and
